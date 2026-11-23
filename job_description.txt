@@ -1,0 +1,20 @@
+
+Software Development Engineer I
+
+We are looking for candidates with experience in
+programming languages such as Python, Java, C++,
+or TypeScript.
+
+Candidates should understand data structures,
+algorithms, object-oriented programming and
+software development principles.
+
+Preferred qualifications include AWS, SQL,
+NoSQL databases, Git, debugging and troubleshooting.
+
+Candidates should hold a bachelor's degree in
+Computer Science or a related STEM discipline.
+
+Responsibilities include developing scalable
+applications, debugging software, participating
+in code reviews and collaborating with engineering teams.
